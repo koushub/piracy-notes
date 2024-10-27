@@ -3,4 +3,9 @@
 ---
 
 # Music Download
-[Lucida](https://lucida.to/)
+
+* [Lucida](https://lucida.to/)
+* [Squid WTF](https://squid.wtf/)
+* [Yams](https://yams.tf/)
+* [Deezer Music Bot](https://t.me/DeezerMusicBot)
+* 
