@@ -12,4 +12,5 @@
 ## Anime Music
 - [Sitting on Clouds](https://sittingonclouds.com) Anime and Video Game Music
 - [Sukidesu](https://sukidesuost.info/)
+- [Nipponsei](https://nipponsei.minglong.org/tracker/)
 - 
