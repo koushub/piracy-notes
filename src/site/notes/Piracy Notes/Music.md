@@ -13,4 +13,4 @@
 - [Sitting on Clouds](https://sittingonclouds.com) Anime and Video Game Music
 - [Sukidesu](https://sukidesuost.info/)
 - [Nipponsei](https://nipponsei.minglong.org/tracker/)
-- 
+- [AniPlaylist](https://aniplaylist.com/) Information site like credits and other details
