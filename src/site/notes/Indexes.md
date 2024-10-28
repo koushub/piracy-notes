@@ -9,6 +9,6 @@
 * [Awesome Piracy](https://shakil-shahadat.github.io/awesome-piracy/)
 * nothjin
 ***
-![100](https://i.imgur.com/5cA7a8w.png)
+
 
 hey
